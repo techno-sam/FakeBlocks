@@ -1,0 +1,6 @@
+{
+	"parent": "item/fake_block_all",
+	"textures": {
+		"all": "block/deepslate_diamond_ore"
+	}
+}

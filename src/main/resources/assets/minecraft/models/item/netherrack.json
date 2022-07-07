@@ -1,0 +1,28 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "minecraft:block/netherrack"
+  },
+  "overrides": [
+    {
+    "predicate": {"custom_model_data": 1},
+    "model": "item/fake_netherrack"
+    },
+    {
+    "predicate": {"custom_model_data": 2},
+    "model": "item/fake_ores/nether_fake_quartz"
+    },
+    {
+    "predicate": {"custom_model_data": 3},
+    "model": "item/fake_ores/nether_fake_gold"
+    },
+    {
+    "predicate": {"custom_model_data": 4},
+    "model": "item/fake_ores/nether_fake_ancient_debris"
+    },
+    {
+    "predicate": {"custom_model_data": 5},
+    "model": "item/fake_ores/nether_fake_netherite"
+    }
+  ]
+}

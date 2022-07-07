@@ -1,0 +1,12 @@
+{
+	"parent": "item/fake_block",
+	"textures": {
+		"particle": "block/deepslate",
+		"north": "block/deepslate_top",
+		"south": "block/deepslate_top",
+		"east": "block/deepslate",
+		"west": "block/deepslate",
+		"up": "block/deepslate",
+		"down": "block/deepslate"
+	}
+}

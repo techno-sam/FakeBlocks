@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "minecraft:block/warped_planks"
+  },
+  "overrides": [
+    {
+    "predicate": {"custom_model_data": 1},
+    "model": "item/fake_warped/planks"
+    },
+    {
+    "predicate": {"custom_model_data": 2},
+    "model": "item/fake_warped/stem"
+    },
+    {
+    "predicate": {"custom_model_data": 3},
+    "model": "item/fake_warped/stripped_stem"
+    },
+    {
+    "predicate": {"custom_model_data": 4},
+    "model": "item/fake_warped/hyphae"
+    },
+    {
+    "predicate": {"custom_model_data": 5},
+    "model": "item/fake_warped/stripped_hyphae"
+    },
+    {
+    "predicate": {"custom_model_data": 6},
+    "model": "item/fake_warped/wart"
+    }
+  ]
+}

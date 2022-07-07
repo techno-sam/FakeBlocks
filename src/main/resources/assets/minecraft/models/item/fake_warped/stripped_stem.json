@@ -1,0 +1,12 @@
+{
+	"parent": "item/fake_block",
+	"textures": {
+		"particle": "block/stripped_warped_stem",
+		"north": "block/stripped_warped_stem_top",
+		"south": "block/stripped_warped_stem_top",
+		"east": "block/stripped_warped_stem",
+		"west": "block/stripped_warped_stem",
+		"up": "block/stripped_warped_stem",
+		"down": "block/stripped_warped_stem"
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"parent": "item/fake_block",
+	"textures": {
+		"particle": "block/ancient_debris",
+		"north": "block/ancient_debris_top",
+		"south": "block/ancient_debris_top",
+		"east": "block/ancient_debris_side",
+		"west": "block/ancient_debris_side",
+		"up": "block/ancient_debris_side",
+		"down": "block/ancient_debris_side"
+	}
+}
